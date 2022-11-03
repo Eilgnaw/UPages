@@ -40,16 +40,16 @@ features                                  :
   #   description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
 
   - title                                 : 自定义背景
-    description                           : 将数据文件分享至 Umiibo 以导入数据.
-    fontawesome_icon_name                 : folder-open 
+    description                           : 点击背景图片选择你喜欢的背景
+    fontawesome_icon_name                 : image
     
   - title                                 : 自定义徽章
-    description                           : 扫描已经拥有的 amiibo 可以在数据库中点亮并备份它.
-    fontawesome_icon_name                 : magic
+    description                           : 点击徽章选择你喜欢的徽章
+    fontawesome_icon_name                 : id-badge
 
-  - title                                 : 自定义名字
-    description                           : 支持中文
-    fontawesome_icon_name                 : file
+  - title                                 : 自定义文本
+    description                           : 直接输入你的称号 名字 和 编码进行铭牌生成
+    fontawesome_icon_name                 : fa-address-card
 
 # Theme Settings
 topbar_color                              : "#000000"
