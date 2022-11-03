@@ -48,15 +48,15 @@ features                                  :
     fontawesome_icon_name                 : id-badge
 
   - title                                 : 自定义文本
-    description                           : 直接输入你的称号 名字 和 编码进行铭牌生成
-    fontawesome_icon_name                 : fa-address-card
+    description                           : 输入自定义 称号 名字 和 编码
+    fontawesome_icon_name                 : vcard
 
 # Theme Settings
 topbar_color                              : "#000000"
 topbar_transparency                       : 0.1
 topbar_title_color                        : "#ffffff"
 
-cover_image                               : https://splatoon.umiibo.app/assets/headerimage.png                    # Replace with alternative image path or image URL.
+cover_image                               : https://splatoon.umiibo.app/assets/headerImage.webp                    # Replace with alternative image path or image URL.
 cover_overlay_color                       : "#363b3d"
 cover_overlay_transparency                : 0.8
 
