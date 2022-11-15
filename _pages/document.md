@@ -3,7 +3,7 @@ layout: page
 title: 常见问题
 include_in_header: true
 ---
-
+## [自制Amiibo](https://umiibo.app)
 ## [喷喷联机群](https://jq.qq.com/?_wv=1027&k=z3ZSWr7A)
 ## 简要使用说明
 - 点击背景图片选取背景
