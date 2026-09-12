@@ -44,7 +44,7 @@ Squid Card may display app recommendations through Kickstart Exchange after conf
 
 When live recommendations are enabled, Kickstart Exchange processes app-level configuration and compatibility details, including the app identifier, platform, app and SDK versions, and App Store storefront country. It processes advertising delivery and interaction data for advertising, marketing, analytics, and app functionality. These interactions are not linked to your identity and are not used for tracking. Any Apple-signed transaction evidence is processed transiently for install verification and discarded. Its network provider, Cloudflare, processes the connecting IP address to deliver traffic.
 
-See the [Kickstart Exchange privacy notice](https://exchange.kickstart.tools/privacy) for data handling and retention details. Debug and Simulator builds using the reserved preview key load a sample advert without recording impressions or clicks; this key displays no adverts in shipping builds.
+See the [Kickstart Exchange privacy notice](https://exchange.kickstart.tools/privacy) for data handling and retention details.
 
 ### Security
 
