@@ -38,6 +38,14 @@ I may employ third-party companies and individuals due to the following reasons:
 - To assist us in analyzing how our Service is used.
 I want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
+### App Recommendations (Kickstart Exchange)
+
+Squid Card may display app recommendations through Kickstart Exchange after confirming that premium access is not active. Recommendations remain hidden while entitlement status is unknown or cannot be verified.
+
+When live recommendations are enabled, Kickstart Exchange processes app-level configuration and compatibility details, including the app identifier, platform, app and SDK versions, and App Store storefront country. It processes advertising delivery and interaction data for advertising, marketing, analytics, and app functionality. These interactions are not linked to your identity and are not used for tracking. Any Apple-signed transaction evidence is processed transiently for install verification and discarded. Its network provider, Cloudflare, processes the connecting IP address to deliver traffic.
+
+See the [Kickstart Exchange privacy notice](https://exchange.kickstart.tools/privacy) for data handling and retention details. Debug and Simulator builds using the reserved preview key load a sample advert without recording impressions or clicks; this key displays no adverts in shipping builds.
+
 ### Security
 
 I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
@@ -54,7 +62,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2021-11-20
+This policy was last updated on 2026-09-12
 
 ### Contact Us
 
